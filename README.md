@@ -12,14 +12,14 @@ In the same Theater category we will look at  subcategory of plays and analyse i
 ### Analysis of Outcomes Based on Launch Date
 - Outcomes based on launch date graph shown below is  that the best months to launch campaigns are starting from April to July, it appears to be a good season for plays. 
 - The month December is not the good month at all, the number of successfull campaign is almost equal to the failed ones. 
-![This is an image](https://github.com/elzmanzi/kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater outcomes based on launch date](https://github.com/elzmanzi/kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 - By comparing those failed and successful using central tendancy measures, i found that mean of failed is almost twice as the successful ones,
 - There is a huge difference  between mean and median for both failed and successful campaign, this might be in the high increase in goal value. 
 - the third quartile is almost similar to mean, which may suggest that data follows the same distributions 
 - on the Failied kickstarter the standard deviation is almost three times compairing to the IQR, which maybe high goal money could be the potential issue of failing. 
-![This is an image](https://github.com/elzmanzi/kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes based on goal](https://github.com/elzmanzi/kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
