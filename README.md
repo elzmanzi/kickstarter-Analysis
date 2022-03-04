@@ -4,7 +4,7 @@ In this project, we will performing Analysis on Kickstarter data from 2009 to 20
 
 ### Purpose
 
-This project is about a crowdfunding project. We will analyse compaigns outcomescomparing to innitial goal funding and launch dates. 
+This project is about a crowdfunding project. We will analyse compaigns outcomes comparing to innitial goal funding and launch dates. 
 In the dataset we will mainly focus on Theater category, it's outcomes
 based on launch date. 
 In the same Theater category we will look at  subcategory of plays and analyse it's outcomes based on goal. 
