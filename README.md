@@ -23,7 +23,7 @@ In the same Theater category we will look at  subcategory of plays and analyse i
 
 ### Challenges and Difficulties Encountered
 
-The possible challenges that could be encountered is to well determine how to reach the intended community so that we can maximize the pledged amount to reach our goals. We may need to know what paltforms to use to reach the crowd. 
+- The difficulties i encountered in this dataset is to make sure the data provided are in the right formats, for example I had to convert deadline and launched unix timestamp format  into dates format. 
 
 ## Results
 
