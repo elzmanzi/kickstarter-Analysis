@@ -29,12 +29,12 @@ In the same Theater category we will look at  subcategory of plays and analyse i
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-In the Outcomes based on launch date, I noticed that April to July are best time of launching campaigns.  
-The month of May is where we have success rate comparing to the rest of the months of the year. 
+    - In the Outcomes based on launch date, I noticed that April to July are best time of launching campaigns.  
+    - The month of May is where we have success rate comparing to the rest of the months of the year. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-The Outcomes based on Goals, The data shows that as the price goal increases there is high chance that our campaign will fail.
+    - The Outcomes based on Goals, The data shows that as the price goal increases there is high chance that our campaign will fail.
 
 - What are some limitations of this dataset?
 
